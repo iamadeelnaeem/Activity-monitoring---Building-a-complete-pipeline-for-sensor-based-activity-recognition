@@ -1,0 +1,7 @@
+We have used google colab for this project.
+We are importing data from drive for this project.
+first of all, make a folder in MyDrive name it as ML_Project.
+In this folder, create another folder and name it as dataset.
+Place both testing and training folders in the dataset folder.
+Now run the project on google colab.
+connect your project with same drive in which you created the above folders.
